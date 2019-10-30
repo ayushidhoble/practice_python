@@ -2,6 +2,6 @@
 def str(input):
     counter = 0
     for x in input:
-        counter = counter+1
+        counter+= 1
     return counter
 print(str("ayushi dhoble"))
